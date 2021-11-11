@@ -1,54 +1,54 @@
  Dataset 1, pass 0
-user	0m10.613s
+user	0m3.3s
  Dataset 2, pass 0
-user	0m9.158s
+user	0m2.19s
  Dataset 3, pass 0
-user	0m9.820s
+user	0m2.5s
  Dataset 4, pass 0
-user	0m10.603s
+user	0m2.67s
  Dataset 5, pass 0
-user	0m9.552s
+user	0m1.92s
  Dataset 6, pass 0
-user	0m10.397s
+user	0m2.74s
  Dataset 7, pass 0
-user	0m9.628s
+user	0m2.13s
  Dataset 8, pass 0
-user	0m9.484s
+user	0m2.03s
  Dataset 9, pass 0
-user	0m9.640s
+user	0m1.88s
  Dataset 1, pass 1
-user	0m10.581s
+user	0m3.35s
  Dataset 2, pass 1
-user	0m9.716s
+user	0m2.17s
  Dataset 3, pass 1
-user	0m10.027s
+user	0m2.25s
  Dataset 4, pass 1
-user	0m10.961s
+user	0m3.03s
  Dataset 5, pass 1
-user	0m9.915s
+user	0m2.25s
  Dataset 6, pass 1
-user	0m9.842s
+user	0m2.62s
  Dataset 7, pass 1
-user	0m9.554s
+user	0m2.26s
  Dataset 8, pass 1
-user	0m9.620s
+user	0m2.19s
  Dataset 9, pass 1
-user	0m9.286s
+user	0m2.02s
  Dataset 1, pass 2
-user	0m10.478s
+user	0m3.06s
  Dataset 2, pass 2
-user	0m9.775s
+user	0m2.1s
  Dataset 3, pass 2
-user	0m9.276s
+user	0m2.81s
  Dataset 4, pass 2
-user	0m10.319s
+user	0m3.16s
  Dataset 5, pass 2
-user	0m10.002s
+user	0m2.19s
  Dataset 6, pass 2
-user	0m9.736s
+user	0m2.76s
  Dataset 7, pass 2
-user	0m10.050s
+user	0m2.2s
  Dataset 8, pass 2
-user	0m9.703s
+user	0m2.13s
  Dataset 9, pass 2
-user	0m9.824s
+user	0m2.0s
