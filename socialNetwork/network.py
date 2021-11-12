@@ -45,7 +45,6 @@ def map(user):
 data = data.flatMap(textParser) # Parse Text
 data = data.reduceByKey(reduceConnections) # Reduce similar connections to one
 data = data.filter(lambda data : data[1][0] == False) # Remove if already friends
-data = data.sortBy(lambda x: x[1][1], ascending=False) 
 data = data.map(lambda user: (user[0][0],(user[0][1],user[1][1]))) # Change to key = user, data=(friendId, numberOfMutualFriends)
 data = data.groupByKey() # Reduce User
 data = data.map(map) # Sort friends
